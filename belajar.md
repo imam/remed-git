@@ -1,6 +1,6 @@
 # Halo dunia! Commit kedua
 
-# Output:
+# Output: Imam
 
 # Halo dunia! Commit kedua
 
