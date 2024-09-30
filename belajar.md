@@ -1,6 +1,6 @@
 # Halo dunia! Commit kedua
 
-# Output:
+# Output halo
 
 # Halo dunia! Commit kedua
 
